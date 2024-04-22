@@ -27,7 +27,7 @@
 
 <img src="https://img.shields.io/badge/Typescript-FCC624?style=flat-round&logo=Typescript&logoColor=black"/>
   
-<img src="https://img.shields.io/badge/Java%20Script-F7DF1E?style=flat-round&logo=JavaScript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java%20Script-F7DF1E?style=flat-round&logo=Java&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-round&logo=Python&logoColor=yellow"/>
 
