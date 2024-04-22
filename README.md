@@ -3,7 +3,7 @@
 <div align='center'>
 
  
-<img src="https://sf.ezoiccdn.com/ezoimgfmt/www.schemecolor.com/wp-content/uploads/deep-blue-gradient-color-palette.png?ezimgfmt=rs:800x420/rscb1/ng:webp/ngcb1" alt="" width="70%">
+<img src="https://sf.ezoiccdn.com/ezoimgfmt/www.schemecolor.com/wp-content/uploads/depths-of-water-color-palette.png?ezimgfmt=rs:800x420/rscb1/ng:webp/ngcb1" alt="" width="70%">
 
 <h3 align="center">🔥 Stats 🔥</h3>
 <p align="center">
@@ -18,17 +18,13 @@
   </a>
 </p>
 
-<img src="https://img.shields.io/badge/React-185b74?style=flat-round&logo=React&logoColor=A8B9CC"/>
-
-<img src="https://img.shields.io/badge/Typescript-FCC624?style=flat-round&logo=Typescript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Typescript-FCC624?style=flat-round&logo=Typescript&logoColor=black"/>
-
-<br>
-
 <img src="https://img.shields.io/badge/Typescript-FCC624?style=flat-round&logo=Typescript&logoColor=black"/>
   
-<img src="https://img.shields.io/badge/Java%20Script-F7DF1E?style=flat-round&logo=Java&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java%20Script-F7DF1E?style=flat-round&logo=Javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 
