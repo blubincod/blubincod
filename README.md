@@ -1,8 +1,9 @@
 # Hello:)
 
 <div align='center'>
+
  
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamQwbnowanRlOGJzbmR4dmY3emdxajZsdnpvN252cW42YmgwcjFwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KouuVwfTuArOWeerLM/giphy.gif" alt="" width="70%">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9ydnI3aDlvMDhsaWRycG16MXhmOXhhbjdkdjcwcGZ3M2JnbjFpYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uV6wFDdoZaQDf0xuwj/giphy.gif" alt="" width="70%">
 
 <h3 align="center">🔥 Stats 🔥</h3>
 <p align="center">
