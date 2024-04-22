@@ -6,8 +6,8 @@
 
 <h3 align="center">🔥 Stats 🔥</h3>
 <p align="center">
-  <a href="https://github.com/JYPIT">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JYPIT&hide=jupyter%20notebook,css&layout=compact&show_icons=true&show_owner=JYPIT&hide_title=true&theme=gotham" />
+  <a href="https://github.com/blubincod">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blubincod&hide=jupyter%20notebook,css&layout=compact&show_icons=true&show_owner=blubincod&hide_title=true&theme=gotham" />
   </a>
 </p>
  
