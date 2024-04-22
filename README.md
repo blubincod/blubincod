@@ -19,6 +19,12 @@
 
 <img src="https://img.shields.io/badge/React-185b74?style=flat-round&logo=React&logoColor=A8B9CC"/>
 
+<img src="https://img.shields.io/badge/React-185b74?style=flat-round&logo=React&logoColor=A8B9CC"/>
+
+<img src="https://img.shields.io/badge/React-185b74?style=flat-round&logo=React&logoColor=A8B9CC"/>
+
+<img src="https://img.shields.io/badge/React-185b74?style=flat-round&logo=React&logoColor=A8B9CC"/>
+
 <img src="https://img.shields.io/badge/Typescript-FCC624?style=flat-round&logo=Typescript&logoColor=black"/>
   
 <img src="https://img.shields.io/badge/Java%20Script-F7DF1E?style=flat-round&logo=JavaScript&logoColor=black"/>
