@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hello:)
 
-<!--
-**blubincod/blubincod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align='center'>
+ 
+<img src="https://github.com/JYPIT/JYPIT/assets/68772640/32cdfdc9-c40c-4553-b142-a33bf146b716" alt="" width="70%">
 
-Here are some ideas to get you started:
+<h3 align="center">🔥 Stats 🔥</h3>
+<p align="center">
+  <a href="https://github.com/JYPIT">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JYPIT&hide=jupyter%20notebook,css&layout=compact&show_icons=true&show_owner=JYPIT&hide_title=true&theme=gotham" />
+  </a>
+</p>
+ 
+<p align="center">
+  <a href="https://github.com/blubincod">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=blubincod&hide=total%20issues,total%20prs&hide_title=true&show_icons=trueinclude_all_commits=true&theme=gotham" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/React-185b74?style=flat-round&logo=React&logoColor=A8B9CC"/>
+
+<img src="https://img.shields.io/badge/Typescript-FCC624?style=flat-round&logo=Typescript&logoColor=black"/>
+  
+<img src="https://img.shields.io/badge/Java%20Script-F7DF1E?style=flat-round&logo=JavaScript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-round&logo=Python&logoColor=yellow"/>
+
+<hr>
+ 
+### 🚀 Dev-Log 🚀
+ 
+<a href="https://jypit.github.io/"><img src="https://img.shields.io/badge/GitBlog-32345e?style=flat-round&logo=Github&logoColor=#32345e"/>
+</div>
